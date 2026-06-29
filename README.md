@@ -86,3 +86,4 @@ This dashboard provides a simple yet powerful way to explore heart attack data a
 * Dataset source (e.g., Kaggle / UCI Machine Learning Repository)
 * Inspiration from data visualization best practices
 
+https://heartattckprediction.streamlit.app 
